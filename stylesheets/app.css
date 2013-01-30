@@ -1,0 +1,100 @@
+#main article li.contrast {
+    font-size: 0.95em;
+}
+
+#main article li.feature strong {
+    display: block;
+}
+
+#touchevents-console {
+    background: #292f34;
+    color: white;
+    font-size: 3.0em;
+    line-height: 2.2em;
+    text-align: center;
+}
+
+ li {
+    padding-top: 128px !important;
+    padding-bottom: 128px !important;
+}
+
+#touchevents .list li:not(.anchor) {
+    padding: 64px 8px;
+}
+
+#scroll h1 {
+    line-height: 44px;
+    background: black;
+    color: white;
+    text-indent: 10px;
+}
+
+#scroll img {
+    min-width: 256px;
+    min-height: 128px;
+    background: #333;
+}
+#scroll .anchor img {
+    width: 100%;
+    margin-bottom: 4px;
+}
+#scroll .horizontal img {
+    height: 100%;
+    margin-right: 4px;
+}
+
+
+.splash img {
+max-width: 250px;
+margin: 30% auto 0%;
+}
+
+
+.loading {font-size: 30px;}
+
+pre { white-space: pre-wrap;
+font-family: "Helvetica Neue", "Open Sans", Helvetica, Arial, sans-serif;
+font-weight: 300;
+font-size: 100%;
+line-height: 1.3em;
+letter-spacing: -0.05em;
+overflow: hidden;
+text-overflow: ellipsis;
+display: block;}
+
+header .title.centered {
+    overflow: hidden;
+white-space: nowrap;
+margin-left: 7%;
+margin-right: 7%;
+
+text-overflow: ellipsis;
+    }
+
+
+.list li.thumb.arrow strong {
+    white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+display: block;
+}    
+
+img { max-width: 100%;}
+
+.columns img, .column img {max-width: 90%;}
+
+.hide { display: none;}
+
+.badges { overflow: hidden;}
+.badges img {width: 84px !important;
+height: 83px !important;margin-right: 5px !important;margin-left: 4px !important;margin-bottom: 10px !important;}
+
+
+#user-info  .one.row {margin-bottom: 5px;}
+#user-info  .column.col5, #user-info  .columns.col5 { width: 49%; margin-bottom: 5px;}
+#user-info  .column.col3, #user-info  .columns.col3 { width: 32%; margin-right: 2%;
+margin-bottom: 5px;}
+#user-info  .column.col3:last-child, #user-info  .columns.col3:last-child { margin-right: 0; }
+
+.anchor {color:#222;}
