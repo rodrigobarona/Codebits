@@ -9,7 +9,9 @@ Note: You need the Codebits credentials to enter in the app.
 
 ## Resources
 [Lungo.js 2.1](http://lungo.tapquo.com/) HTML5 Cross-Device Framework
+
 [QUO.js 2.3](http://quojs.tapquo.com/) Micro JavaScript Library
+
 [Codebits API](https://codebits.eu/s/api) 
 
 ## Credits
